@@ -2,64 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19f2e24e-c44c-4ea4-82f0-658c7eba5d78" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/cool1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/cool2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/cool3.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/demo1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/demo2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/demo3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/icons/logo.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/app.png" afterPath="$PROJECT_DIR$/assets/icons/app.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/loading.png" afterPath="$PROJECT_DIR$/assets/icons/loading.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/new_loading.png" afterPath="$PROJECT_DIR$/assets/icons/new_loading.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/new_logo.png" afterPath="$PROJECT_DIR$/assets/icons/new_logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/placeholder.png" afterPath="$PROJECT_DIR$/assets/icons/placeholder.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/profile.png" afterPath="$PROJECT_DIR$/assets/icons/profile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/icons/profile_1.png" afterPath="$PROJECT_DIR$/assets/icons/profile_1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/emailAddress.js" afterPath="$PROJECT_DIR$/app/components/emailAddress.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/header.js" afterPath="$PROJECT_DIR$/app/components/header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/homeCard.js" afterPath="$PROJECT_DIR$/app/components/homeCard.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/mobileNumber.js" afterPath="$PROJECT_DIR$/app/components/mobileNumber.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/components/textInput.js" afterPath="$PROJECT_DIR$/app/components/textInput.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/colors.js" afterPath="$PROJECT_DIR$/app/config/colors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/routes/drawerNavigator.js" afterPath="$PROJECT_DIR$/app/routes/drawerNavigator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/about/about.js" afterPath="$PROJECT_DIR$/app/screens/about/about.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/accounts/accountsB.js" afterPath="$PROJECT_DIR$/app/screens/accounts/accountsB.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/accounts/addAccountB.js" afterPath="$PROJECT_DIR$/app/screens/accounts/addAccountB.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/accounts/newAccount.js" afterPath="$PROJECT_DIR$/app/screens/accounts/newAccount.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/forgetPassword.js" afterPath="$PROJECT_DIR$/app/screens/auth/forgetPassword.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/login.js" afterPath="$PROJECT_DIR$/app/screens/auth/login.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/signup.js" afterPath="$PROJECT_DIR$/app/screens/auth/signup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/auth/verifyMobile.js" afterPath="$PROJECT_DIR$/app/screens/auth/verifyMobile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/home/home.js" afterPath="$PROJECT_DIR$/app/screens/home/home.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/home/initialScreen.js" afterPath="$PROJECT_DIR$/app/screens/home/initialScreen.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/home/noNetConnection.js" afterPath="$PROJECT_DIR$/app/screens/home/noNetConnection.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/home/transactions.js" afterPath="$PROJECT_DIR$/app/screens/home/transactions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/address.js" afterPath="$PROJECT_DIR$/app/screens/settings/address.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccountComponent.js" afterPath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccountComponent.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccounts.js" afterPath="$PROJECT_DIR$/app/screens/settings/bankAccounts/bankAccounts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddressComponent.js" afterPath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddressComponent.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddresses.js" afterPath="$PROJECT_DIR$/app/screens/settings/bitcoinAddresses/bitcoinAddresses.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/emailAddresses/addEmailAddress.js" afterPath="$PROJECT_DIR$/app/screens/settings/emailAddresses/addEmailAddress.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/emailAddresses/emailAddresses.js" afterPath="$PROJECT_DIR$/app/screens/settings/emailAddresses/emailAddresses.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/getVerified/document.js" afterPath="$PROJECT_DIR$/app/screens/settings/getVerified/document.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/getVerified/documentUpload.js" afterPath="$PROJECT_DIR$/app/screens/settings/getVerified/documentUpload.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/getVerified/getVerified2.js" afterPath="$PROJECT_DIR$/app/screens/settings/getVerified/getVerified2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/addMobileNumber.js" afterPath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/addMobileNumber.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/mobileNumbers.js" afterPath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/mobileNumbers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/verifyMobile.js" afterPath="$PROJECT_DIR$/app/screens/settings/mobileNumbers/verifyMobile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/personalDetails.js" afterPath="$PROJECT_DIR$/app/screens/settings/personalDetails.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/profileImage/uploadImage.js" afterPath="$PROJECT_DIR$/app/screens/settings/profileImage/uploadImage.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/changePassword.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/changePassword.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/authoVerifySms.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/authoVerifySms.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorSmsAuth.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorSmsAuth.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorToken.js" afterPath="$PROJECT_DIR$/app/screens/settings/security/twoFactor/twoFactorToken.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/transfer/amountEntry.js" afterPath="$PROJECT_DIR$/app/screens/transfer/amountEntry.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js" afterPath="$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/transfer/sendTo.js" afterPath="$PROJECT_DIR$/app/screens/transfer/sendTo.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/withdraw/amountEntry.js" afterPath="$PROJECT_DIR$/app/screens/withdraw/amountEntry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/withdraw/bankAccounts.js" afterPath="$PROJECT_DIR$/app/screens/withdraw/bankAccounts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/screens/withdraw/bitcoinAddresses.js" afterPath="$PROJECT_DIR$/app/screens/withdraw/bitcoinAddresses.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -70,57 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="drawerNavigator.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/routes/drawerNavigator.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/screens/about/about.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="84" column="3" lean-forward="true" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="3" />
-              <folding>
-                <element signature="e#0#40#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="transactions.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/screens/home/transactions.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="201" column="38" lean-forward="true" selection-start-line="201" selection-start-column="38" selection-end-line="201" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/colors.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="sendTo.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/screens/transfer/sendTo.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="236" column="25" lean-forward="true" selection-start-line="236" selection-start-column="25" selection-end-line="236" selection-end-column="25" />
+            <state relative-caret-position="206">
+              <caret line="137" column="62" lean-forward="false" selection-start-line="137" selection-start-column="53" selection-end-line="137" selection-end-column="62" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -128,31 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="emailAddress.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/components/emailAddress.js">
+      <file leaf-file-name="qrcodeScanner.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="drawerHeader.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/components/drawerHeader.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="149">
-              <caret line="45" column="33" lean-forward="false" selection-start-line="45" selection-start-column="32" selection-end-line="45" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/screens/home/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="91">
-              <caret line="164" column="31" lean-forward="true" selection-start-line="164" selection-start-column="31" selection-end-line="164" selection-end-column="31" />
+            <state relative-caret-position="290">
+              <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -160,11 +37,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="initialScreen.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/screens/home/initialScreen.js">
+      <file leaf-file-name="amountEntry.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/screens/transfer/amountEntry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="75" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="75" />
+            <state relative-caret-position="222">
+              <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="21" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
@@ -177,13 +54,15 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>darkblue</find>
-      <find>link</find>
       <find>lightblue</find>
       <find>contact</find>
       <find>place</find>
       <find>med</find>
       <find>m</find>
       <find>Colors</find>
+      <find>link</find>
+      <find>Send</find>
+      <find>reference</find>
     </findStrings>
     <replaceStrings>
       <replace>lightbrown</replace>
@@ -202,6 +81,7 @@
         <option value="$PROJECT_DIR$/app/components/emailAddress.js" />
         <option value="$PROJECT_DIR$/app/screens/transfer/sendTo.js" />
         <option value="$PROJECT_DIR$/app/routes/drawerNavigator.js" />
+        <option value="$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js" />
       </list>
     </option>
   </component>
@@ -251,13 +131,14 @@
               <item name="wallet-react-native" type="b2602c69:ProjectViewProjectNode" />
               <item name="wallet-react-native" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wallet-react-native" type="b2602c69:ProjectViewProjectNode" />
               <item name="wallet-react-native" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="transfer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -335,16 +216,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/screens/about/about.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="84" column="3" lean-forward="true" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="3" />
-          <folding>
-            <element signature="e#0#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/config/colors.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -399,22 +270,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/screens/transfer/sendTo.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="236" column="25" lean-forward="true" selection-start-line="236" selection-start-column="25" selection-end-line="236" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/routes/drawerNavigator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="63" column="45" lean-forward="true" selection-start-line="63" selection-start-column="45" selection-end-line="63" selection-end-column="45" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/about/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="84" column="3" lean-forward="true" selection-start-line="84" selection-start-column="3" selection-end-line="84" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/transfer/sendTo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="137" column="62" lean-forward="false" selection-start-line="137" selection-start-column="53" selection-end-line="137" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/transfer/amountEntry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/screens/transfer/qrcodeScanner.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="25" column="59" lean-forward="false" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
           </folding>
         </state>
       </provider>

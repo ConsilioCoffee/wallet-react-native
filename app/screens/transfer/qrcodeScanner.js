@@ -23,7 +23,7 @@ export default class QRcodeScanner extends Component {
   }
 
   goToSendTo = () => {
-    this.props.navigation.navigate("SendMoney", { reference: this.state.reference })
+    this.props.navigation.navigate("SendMoney", { recipient: this.state.reference })
   }
 
   render() {
