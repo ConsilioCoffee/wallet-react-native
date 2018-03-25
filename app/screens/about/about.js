@@ -64,11 +64,11 @@ export default class About extends Component {
             <Text style={{ fontSize: 20, color: Colors.black }}>
               {this.state.company.description}
             </Text>
-            <Text
-              style={{ fontSize: 20, color: Colors.darkblue }}
-              onPress={this.openLink}>
-              (link)
-            </Text>
+            {/*<Text*/}
+              {/*style={{ fontSize: 20, color: Colors.darkblue }}*/}
+              {/*onPress={this.openLink}>*/}
+              {/*(link)*/}
+            {/*</Text>*/}
           </View>
         </View>
         <View style={styles.logo}>

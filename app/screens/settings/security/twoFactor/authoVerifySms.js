@@ -97,7 +97,7 @@ const styles = StyleSheet.create({
         backgroundColor: 'white'
     },
     VerifyButton: {
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.mediumbrown,
         alignItems: 'center',
         justifyContent: 'center',
         paddingVertical: 4,
@@ -113,7 +113,7 @@ const styles = StyleSheet.create({
         marginHorizontal: 20,
         height: 50,
         borderRadius: 25,
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.mediumbrown,
         alignItems: 'center',
         justifyContent: 'center',
     },

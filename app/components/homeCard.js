@@ -106,7 +106,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
     },
     buttonText: {
-        color: Colors.lightblue,
+        color: Colors.mediumbrown,
         fontSize: 18,
     },
     falseView: {

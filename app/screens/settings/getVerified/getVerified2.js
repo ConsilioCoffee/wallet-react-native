@@ -351,7 +351,7 @@ const styles = StyleSheet.create({
         paddingTop: 10,
     },
     buttonText: {
-        color: Colors.lightblue,
+        color: Colors.mediumbrown,
         fontSize: 16,
     }
 

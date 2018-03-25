@@ -134,7 +134,7 @@ const styles = StyleSheet.create({
     submit: {
         flex: 1,
         marginBottom: 10,
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.mediumbrown,
         borderRadius: 25,
         height: 50,
         alignItems: 'center',
@@ -143,7 +143,7 @@ const styles = StyleSheet.create({
     resend: {
         marginHorizontal: 25,
         marginBottom: 10,
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.mediumbrown,
         borderRadius: 25,
         height: 50,
         alignItems: 'center',

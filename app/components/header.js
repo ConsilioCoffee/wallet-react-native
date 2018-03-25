@@ -51,7 +51,7 @@ export default class Account extends Component {
 
     render() {
         return (
-            <View style={{paddingTop: Expo.Constants.statusBarHeight,backgroundColor:Colors.lightblue}}>
+            <View style={{paddingTop: Expo.Constants.statusBarHeight,backgroundColor:Colors.mediumbrown}}>
                 {
                     this.props.creditSwitch === false && this.props.debitSwitch === true &&
                      <View style={{paddingVertical:4, paddingHorizontal: 20, backgroundColor:Colors.red, justifyContent:'center',alignItems:'center'}}>
@@ -157,7 +157,7 @@ const styles = StyleSheet.create({
     options: {
         width: "100%",
         flexDirection: 'row',
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.mediumbrown,
         height: 55 ,
     },
     left: {

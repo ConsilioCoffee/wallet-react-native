@@ -70,7 +70,7 @@ export default class QRcodeScanner extends Component {
                 </Text>
               </TouchableHighlight>
               <TouchableHighlight
-                style={[styles.buttons, { backgroundColor: Colors.lightblue }]}
+                style={[styles.buttons, { backgroundColor: Colors.mediumbrown }]}
                 onPress={this.goToSendTo}>
                 <Text style={{ color: 'white', fontSize: 20 }}>
                   Next

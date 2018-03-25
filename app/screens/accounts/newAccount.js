@@ -267,7 +267,7 @@ const styles = StyleSheet.create({
         backgroundColor: Colors.lightgray
     },
     addAccountText: {
-        color: Colors.lightblue,
+        color: Colors.mediumbrown,
         fontSize: 17,
         marginLeft:20
     },

@@ -156,7 +156,7 @@ export default class SendTo extends Component {
                         <View style={{flex: 1}}>
                             <TextInput
                                 title="Recipient"
-                                placeholder="Enter email, stellar address or mobile"
+                                placeholder="Enter email or mobile"
                                 autoCapitalize="none"
                                 underlineColorAndroid="white"
                                 value={this.state.searchText}
@@ -190,7 +190,7 @@ export default class SendTo extends Component {
                         <View style={{flex: 1}}>
                             <TextInput
                                 title="Recipient"
-                                placeholder="Enter email, stellar address or mobile"
+                                placeholder="Enter email or mobile"
                                 fontSize={this.state.searchText.length == 0 ? 18 : 22}
                                 autoCapitalize="none"
                                 underlineColorAndroid="white"
@@ -238,7 +238,7 @@ const styles = StyleSheet.create({
         marginHorizontal:20,
         borderRadius:25,
         height: 50,
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.mediumbrown,
         alignItems: 'center',
         justifyContent: 'center',
     },

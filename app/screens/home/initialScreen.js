@@ -18,7 +18,7 @@ export default class InitialScreen extends Component {
             <View style={styles.container}>
                 <View style={styles.imageContainer}>
                     <Image
-                        source={require('./../../../assets/icons/new_logo.png')}
+                        source={require('./../../../assets/icons/app.png')}
                         resizeMode="contain"
                         style={styles.image}/>
                 </View>
@@ -69,7 +69,7 @@ const styles = StyleSheet.create({
         paddingVertical:25,
     },
     button: {
-        backgroundColor: Colors.lightblue,
+        backgroundColor: Colors.mediumbrown,
         height: 50,
         borderRadius:25,
         flex: 1,
@@ -89,6 +89,6 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 12,
-        color: Colors.lightblue
+        color: Colors.mediumbrown
     }
 })

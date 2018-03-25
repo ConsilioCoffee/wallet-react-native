@@ -22,7 +22,7 @@ export default class Account extends Component {
           <View style={styles.buttons}>
             {this.props.email.verified !== true ?
               <TouchableHighlight
-                style={[styles.button, { backgroundColor: Colors.lightblue }]}
+                style={[styles.button, { backgroundColor: Colors.mediumbrown }]}
                 onPress={() => this.props.verify(this.props.email.email)} >
                 <Text style={styles.buttonText}>
                   Verify
@@ -39,7 +39,7 @@ export default class Account extends Component {
                 </Text>
               </TouchableHighlight> :
               <TouchableHighlight
-                style={[styles.button, { backgroundColor: Colors.lightblue }]}
+                style={[styles.button, { backgroundColor: Colors.mediumbrown }]}
                 onPress={() => this.props.makePrimary(this.props.email.id)} >
                 <Text style={styles.buttonText}>
                   Make Primary

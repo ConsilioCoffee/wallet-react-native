@@ -323,7 +323,7 @@ const styles = StyleSheet.create({
         backgroundColor: Colors.lightgray
     },
     addAccountText: {
-        color: Colors.lightblue,
+        color: Colors.mediumbrown,
         padding: 10,
         paddingHorizontal: 20,
         fontSize: 17
